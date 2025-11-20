@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Estudiante de Ingeniería Informática 👨‍💻
+# Bienvenido a mi perfil 👨‍💻
 
 
 Estudiante de Ingeniería Informática en la FIC. 
