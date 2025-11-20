@@ -1,18 +1,1 @@
-# Bienvenido a mi perfil 👨‍💻
-
-
-Estudiante de Ingeniería Informática en la FIC. 
-
-<!--
-<a href="https://linkedin.com/in/TU_USUARIO">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
--->
-<a href="https://instagram.com/ismaelpzz__">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
----
-
-### 🛠 Tech Stack
-- 💻 **OS:** macOS Sonoma / Linux / Windows
+<table><tr><td width="70%" valign="top" style="border: none;"><h1>Bienvenido a mi perfil 👨‍💻</h1><p>Estudiante de Ingeniería Informática en la FIC.</p><a href="https://instagram.com/ismaelpzz__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a><br><br><hr><h3>🛠 Tech Stack</h3><ul><li>💻 <b>OS:</b> macOS Sonoma / Linux / Windows</li><td width="30%" valign="center" style="border: none;"><img src="https://raw.githubusercontent.com/ismaelpzz/ismaelpzz/main/Adobe%20Express%20-%20file.png" width="100%" alt="Asuka" /></td></tr></table>
